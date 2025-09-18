@@ -20,3 +20,4 @@ if __name__ == "__main__":
     print("Информация о системе:")
     for key, value in info.items():
         print(f"- {key}: {value}")
+        
